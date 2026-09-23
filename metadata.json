@@ -1,0 +1,6 @@
+{
+  "name": "Road Dogs Auto Care - Aurora, IL",
+  "description": "Reliable, precision auto repair & maintenance in Aurora, IL. ASE-certified diagnostics, performance maintenance, brake service, and precision mechanical engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
